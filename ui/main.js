@@ -1,6 +1,6 @@
 console.log('Loaded!');
 var element=document.getElementById('maintext');
-elemtnt.innerHTML='New value';
+element.innerHTML='New value';
 //moving img
 var img=document.getElementById('madi');
 img.onClick = function(){
